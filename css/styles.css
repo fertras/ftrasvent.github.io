@@ -1,4 +1,9 @@
 body
 {
-    background-color: midnightblue;
+    background-color: rgb(255, 255, 255);
+}
+div
+{
+    background-color: rgb(228, 228, 236);
+    border-radius: 5%;
 }
